@@ -140,14 +140,13 @@ padding: 18px 0px 0px;
     }
     .candy{
     color: #696969;
-
-        padding: 0px 8px 0px;
+padding: 0px 8px 0px;
     }
 
 
 .div2{
     width: 63.33%;
-    margin: 0 auto;
+    margin: 0px auto 0px;
     
 }
 
@@ -155,9 +154,49 @@ padding: 18px 0px 0px;
     height: 400px;
     width: 600px;
 }
+.title{
+    padding: 20px 0px 0px;
+    color: #3e86c2;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 
 .div3{
-    background-color: beige;
+    background-color: rgb(177, 177, 0);
     width: 23.33%;
     float: right;
+}
+
+.paragharph1{
+padding: 18px 0px 0px;
+/* margin: 0px 20rem 0px; */
+}
+
+.buttons{
+    padding: 30px;
+    margin: 0px 40px 0px;
+    /* gap: 5rem; */
+}
+.tweet{
+    padding: 0px 10px;
+    margin: 0px 3rem;
+}
+.like{
+    padding: 0px 10px;
+
+    margin: 0px 5rem;
+}
+.cmt{
+    padding: 0px 10px;
+
+    margin: 0px 1rem;
+}
+.btnCmd{
+    height: 15px;
+    width: 15px;
+}
+.comment_section{
+    margin-left: -10rem;
+    padding: 5rem 20px;
 }
